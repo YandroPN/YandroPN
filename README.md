@@ -17,9 +17,9 @@
  <div style="display: block;"><br>
     <p>Programas e ferramentas que ultilizo</p>
     <a href="https://git-scm.com/" target="_blank"><img align="center" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"></a>
-    <img align="center" alt="Vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Mysql" height="50" width="50" src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg">
+    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></a>
+    <a href="https://github.com/" target="_blank"><img align="center" alt="github" height="50" width="50" src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg"></a>
  </div>
  
  <div style="display: block;"><br>
