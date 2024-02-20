@@ -8,9 +8,9 @@
 <div style="display: block;"><br>
    <p>Badges de Cursos (certificados linkados)</p>
    <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
-" target="_blank"><img align="center" alt="Cisco" height="150" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/1478a551-7a57-49c5-a34e-65ef18106216"></a>
+" target="_blank"><img align="center" alt="Cisco" height="100" width="100" src="https://github.com/YandroPN/YandroPN/assets/144833564/1478a551-7a57-49c5-a34e-65ef18106216"></a>
    <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
-" target="_blank"><img align="center" alt="Cisco" height="150" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/e07c93c8-b529-4ed5-a5a9-3d581f6fa261"></a>
+" target="_blank"><img align="center" alt="Cisco" height="100" width="100" src="https://github.com/YandroPN/YandroPN/assets/144833564/e07c93c8-b529-4ed5-a5a9-3d581f6fa261"></a>
  <div style="display: block;"><br>
  </div>
    
