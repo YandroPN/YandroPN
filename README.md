@@ -6,6 +6,7 @@
 
 <div style="display: block;"><br>
    <p>Badges de Cursos (certificados linkados)</p>
+   <img align="right" alt="Banguela" src="https://github.com/YandroPN/YandroPN/assets/144833564/34d6976e-ff87-4eeb-82a5-ea6a52c04d9b">
    <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
 " target="_blank"><img align="center" alt="Cisco" height="150" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/1478a551-7a57-49c5-a34e-65ef18106216"></a>
    <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
@@ -35,9 +36,6 @@
     <a href="https://www.instagram.com/yvan.pontes/" target="_blank"><img align="center" alt="Instagram" width="50" height="50" src="https://cdn-icons-png.flaticon.com/256/1384/1384063.png"></a>
     <a href="mailto:yandropontesnascimento@gmail.com" target="_blank"><img align="center" alt="Mysql" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
  </div>
-
-
-
 
 
 
