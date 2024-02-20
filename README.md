@@ -1,5 +1,5 @@
 <div style="display: block;"><br>
-    <img align="right" alt="IF" height="150" width="250" src="https://github.com/YandroPN/YandroPN/assets/144833564/7a2d36ef-9482-49b3-8247-e2c3dbb4fa03">
+    <img align="left" alt="IF" height="150" width="250" src="https://github.com/YandroPN/YandroPN/assets/144833564/7a2d36ef-9482-49b3-8247-e2c3dbb4fa03">
     <p>Yandro Pontes Nascimento - 17 anos de idade</p>
     <p>Cursando Redes de Computadores - 3º ano do ensino médio</p>
     <p>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO TOCANTINS</p>
