@@ -2,10 +2,18 @@
    <p>Yandro Pontes Nascimento - 17 anos de idade</p>
    <p>Cursando Redes de Computadores - 3º ano do ensino médio</p>
    <p>Como estudante apaixonado pela área da tecnologia e programação, mergulho em projetos internos que ampliam meu entendimento prático. Minha jornada inclui o curso de Cibersegurança, realizado por meio do "Cybersecurity Essentials" da Cisco Network Academy, solidificando minha expertise na proteção digital. Comprometido com a inovação, busco constantemente desafios que impulsionem meu desenvolvimento profissional na vanguarda tecnológica.</p>
-   </div>
+</div>
 
+<div style="display: block;"><br>
+   <p>Badges de Cursos (certificados linkados)</p>
+   <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
+" target="_blank"><img align="center" alt="Cisco" height="150" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/1478a551-7a57-49c5-a34e-65ef18106216"></a>
+   <a href="https://github.com/YandroPN/YandroPN/files/14350463/Cybersecurity_Essentials_Badge20240219-29-eosc3h.pdf
+" target="_blank"><img align="center" alt="Cisco" height="150" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/e07c93c8-b529-4ed5-a5a9-3d581f6fa261"></a>
  <div style="display: block;"><br>
-   <p>Linguagens que tenho conhecimento</p>
+ </div>
+   
+   <p> Linguagens que tenho conhecimento</p>
    <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
@@ -27,3 +35,10 @@
     <a href="https://www.instagram.com/yvan.pontes/" target="_blank"><img align="center" alt="Instagram" width="50" height="50" src="https://cdn-icons-png.flaticon.com/256/1384/1384063.png"></a>
     <a href="mailto:yandropontesnascimento@gmail.com" target="_blank"><img align="center" alt="Mysql" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
  </div>
+
+
+
+
+
+
+ 
