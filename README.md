@@ -1,8 +1,7 @@
 <div style="display: block;"><br>
-   <img align="right" alt="IF" height="90" width="150" src="https://github.com/YandroPN/YandroPN/assets/144833564/7a2d36ef-9482-49b3-8247-e2c3dbb4fa03">
    <p>Yandro Pontes Nascimento - 17 anos de idade</p>
    <p>Cursando Redes de Computadores - 3º ano do ensino médio</p>
-   <p>IFTO - Campus Araguatins</p>
+   <p>Como estudante apaixonado pela área da tecnologia e programação, mergulho em projetos internos que ampliam meu entendimento prático. Minha jornada inclui o curso de Cibersegurança, realizado por meio do "Cybersecurity Essentials" da Cisco Network Academy, solidificando minha expertise na proteção digital. Comprometido com a inovação, busco constantemente desafios que impulsionem meu desenvolvimento profissional na vanguarda tecnológica.</p>
    </div>
 
  <div style="display: block;"><br>
