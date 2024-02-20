@@ -16,7 +16,7 @@
  
  <div style="display: block;"><br>
     <p>Programas e ferramentas que ultilizo</p>
-    <img align="center" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"></a>
     <img align="center" alt="Vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="Mysql" height="50" width="50" src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg">
