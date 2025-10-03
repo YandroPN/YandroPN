@@ -1,7 +1,7 @@
 <div style="display: block;"><br>
    <p>Yandro Pontes Nascimento - 19 anos de idade</p>
-   <p>Cursando Engenharia Elétrica - Universidade Federal de Palmas</p>
-   <p>Formado em Redes de Computadores pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO Campus Araguatins</p>
+   <p>Cursando Engenharia Elétrica - Universidade Federal de Palmas.</p>
+   <p>Formado em Redes de Computadores pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO Campus Araguatins.</p>
    <p>Como estudante apaixonado pela área da tecnologia e programação, mergulho em projetos internos que ampliam meu entendimento prático. Minha jornada inclui o curso de Cibersegurança, realizado por meio do "Cybersecurity Essentials" da Cisco Networking Academy, solidificando minha expertise na proteção digital. Comprometido com a inovação, busco constantemente desafios que impulsionem meu desenvolvimento profissional na vanguarda tecnológica.</p>
    <img align="right" alt="Banguela" src="https://github.com/YandroPN/YandroPN/assets/144833564/34d6976e-ff87-4eeb-82a5-ea6a52c04d9b">
 </div>
